@@ -124,6 +124,12 @@ Hi, I'm <strong>Muhammad Fiaz</strong> — an aspiring <strong>Mobile App Develo
 
 ---
 
+## 🐍 My GitHub Contributions
+
+![snake gif](https://github.com/FiazJutt/FiazJutt/blob/output/github-snake.svg)
+
+---
+
 <h3 align="center">🤝 Open to connect & collaborate — star, fork, follow, or drop me a message!</h3>
 
 <p align="right">

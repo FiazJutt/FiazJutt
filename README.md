@@ -122,11 +122,6 @@ Hi, I'm <strong>Muhammad Fiaz</strong> — an aspiring <strong>Mobile App Develo
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </details>
 
----
-
-## 🐍 My GitHub Contributions
-
-![snake gif](https://github.com/FiazJutt/FiazJutt/blob/output/github-snake.svg)
 
 ---
 

@@ -93,7 +93,7 @@ Hi, I'm <strong>Muhammad Fiaz</strong> — an aspiring <strong>Mobile App Develo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FiazJutt&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FiazJutt&show_icons=true&theme=midnight-purple"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=FiazJutt&show_icons=true&theme=midnight-purple"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FiazJutt&theme=midnight-purple"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiazJutt&layout=compact&theme=midnight-purple" />
 </p>

@@ -5,7 +5,7 @@
 </p>
 
 <h4 align="center">
-Flutter Developer | Final Year IT Student | AI-Powered Mobile Applications | Open to Collaboration | Pakistan 🇵🇰
+Flutter Developer | AI-Powered Mobile Applications | Open to Collaboration | Pakistan 🇵🇰
 </h4>
 
 ---
@@ -16,7 +16,7 @@ Hi, I’m <strong>Muhammad Fiaz</strong>, a passionate <strong>Flutter Mobile Ap
 
 My development approach emphasizes:
 - Clean architecture  
-- State management using **Riverpod**  
+- State management using **Provider**, **Riverpod** 
 - Offline-first apps using **SQLite**  
 - Secure backend integration with **Firebase**  
 - Intelligent features using **AI APIs**

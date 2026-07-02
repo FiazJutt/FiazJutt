@@ -32,7 +32,7 @@ Experienced Senior Flutter Developer with a proven track record of building scal
 
 ## 🛠️ Tech Stack
 
-**Mobile:** Flutter • Dart | **State Mgmt:** Riverpod • BLoC • Provider | **Backend:** Firebase • Supabase | **Storage:** SQLite • Hive | **AI/ML:** Groq • OpenRouter • TensorFlow Lite | **Architecture:** Clean Arch • MVVM • Repository Pattern
+**Mobile:** Flutter • Dart | **State Mgmt:** Riverpod • Provider | **Backend:** Firebase • Supabase | **Storage:** SQLite • Hive | **AI/ML:** Groq • OpenRouter • TensorFlow Lite | **Architecture:** Clean Arch • MVVM • Repository Pattern
 
 ---
 
@@ -84,7 +84,7 @@ Experienced Senior Flutter Developer with a proven track record of building scal
 
 🎓 **Technical Excellence:**
 - Clean Architecture & SOLID principles
-- Advanced state management (Riverpod, BLoC)
+- Advanced state management (Provider, Riverpod)
 - Firebase best practices & real-time data sync
 - Offline-first architecture with local storage optimization
 - AI/ML integration for enhanced user experience

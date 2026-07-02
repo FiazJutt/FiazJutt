@@ -1,11 +1,11 @@
 <div id="top"></div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=36&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Muhammad+Fiaz;Flutter+Developer;AI+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=36&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Muhammad+Fiaz;Senior+Flutter+Developer;AI-Powered+Mobile+Solutions;Global+Client+Projects"/>
 </p>
 
 <h4 align="center">
-Flutter Developer | AI-Powered Mobile Apps | Pakistan 🇵🇰
+Senior Flutter Developer | AI-Integrated Mobile Apps | Global Clients 🌍
 </h4>
 
 <p align="center">
@@ -18,17 +18,36 @@ Flutter Developer | AI-Powered Mobile Apps | Pakistan 🇵🇰
 
 ## 👨‍💻 About Me
 
-Building scalable, AI-integrated Flutter apps with clean architecture. Expertise in **Riverpod**, **Firebase**, **AI APIs**, and offline-first design. Open to collaboration on innovative mobile solutions.
+Experienced Senior Flutter Developer with a proven track record of building scalable, production-grade mobile applications for global clients. Specializing in **clean architecture**, **AI-powered features**, **Firebase integration**, and **offline-first design**. 
+
+**Core Expertise:**
+- 🎯 Enterprise-level Flutter & Dart development
+- 🤖 AI/ML integration (Groq, OpenRouter, TensorFlow Lite)
+- 🏗️ Clean Architecture & Design Patterns
+- 🔥 Firebase, Supabase, backend integrations
+- 📱 Cross-platform mobile solutions
+- 🌐 Global client project delivery
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile:** Flutter • Dart | **State Mgmt:** Riverpod • BLoC • Provider | **Backend:** Firebase • Supabase | **Storage:** SQLite • Hive | **AI:** Groq • OpenRouter • TensorFlow Lite | **Tools:** REST APIs • Postman • Figma
+**Mobile:** Flutter • Dart | **State Mgmt:** Riverpod • BLoC • Provider | **Backend:** Firebase • Supabase | **Storage:** SQLite • Hive | **AI/ML:** Groq • OpenRouter • TensorFlow Lite | **Architecture:** Clean Arch • MVVM • Repository Pattern
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Professional Client Projects
+
+### 🌏 Global Clients & International Projects
+
+| Project | Client | Description | Tech Stack | Status |
+|---------|--------|-------------|-----------|--------|
+| **1LifeProcativeHealth** | 🇵🇭 Medical Organization (Philippines) | Comprehensive mobile app for medical healthcare management and patient support | Flutter • Dart • Firebase • Clean Architecture | ✅ Live |
+| **Yigun** | 🇹🇼 Taiwan | Emotional Support & Mental Wellness App - Full ecosystem with admin & school dashboards | Flutter • Dart • Firebase • Riverpod | ✅ Live |
+| **Yigun Admin Dashboard** | 🇹🇼 Taiwan | Admin management system for Yigun platform | Flutter Web • Dart • Firebase | ✅ Live |
+| **Yigun School Admin Panel** | 🇹🇼 Taiwan | School-side dashboard for educational management | Flutter • Dart • Firebase | ✅ Live |
+
+### 💼 Personal Showcase Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -55,11 +74,39 @@ Building scalable, AI-integrated Flutter apps with clean architecture. Expertise
 
 ---
 
+## 💡 Key Highlights
+
+✨ **Professional Experience:**
+- Delivered production-grade apps for international clients (Philippines, Taiwan)
+- Built scalable healthcare and mental wellness platforms
+- Developed complex admin dashboards with role-based access control
+- Expertise in handling multi-repository, multi-team projects
+
+🎓 **Technical Excellence:**
+- Clean Architecture & SOLID principles
+- Advanced state management (Riverpod, BLoC)
+- Firebase best practices & real-time data sync
+- Offline-first architecture with local storage optimization
+- AI/ML integration for enhanced user experience
+
+🌐 **Global Collaboration:**
+- Experience working with international teams
+- Time zone management across regions
+- Multilingual app development
+
+---
+
 ## 🎯 Let's Connect
 
-**Open to:** Flutter/Dart projects • AI-powered apps • Firebase integrations • Open source • Mentoring
+**Open to:** 
+- Enterprise Flutter/Dart projects
+- AI-powered mobile applications
+- Global client collaborations
+- Firebase & backend integrations
+- Open source contributions
+- Mentoring & technical consultation
 
-📧 [Email](mailto:fiazejaz786@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/muhammadfiazdev) | 💻 [GitHub](https://github.com/FiazJutt)
+📧 [Email](mailto:fiazejaz786@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/muhammadfiazdev) | 💻 [GitHub](https://github.com/FiazJutt) | 🌐 [Portfolio](https://github.com/FiazJutt?tab=repositories)
 
 ---
 
